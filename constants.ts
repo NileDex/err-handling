@@ -1,0 +1,2 @@
+export const ONCHAIN_BIO =
+  "0x0f5c37d415935600e1cfcdba1a36ba279208e26341bd330a99c3bda3adcd7926";
